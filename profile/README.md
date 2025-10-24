@@ -1,47 +1,33 @@
 # BasicFist
 
-**Systematic Innovation Through Code**
+Infrastructure for algorithmic trading, high-performance LLM inference, and privacy-first tooling.
 
-BasicFist is a research and development organization focused on:
-- 🔬 **Academic Research**: Knowledge discovery and validation
-- 📈 **Trading Systems**: Financial analytics and platform integration
-- 💻 **Development Tools**: Mobile operations and AI optimization
-- 🎨 **Creative Technology**: AI workflows and visual computing
+## Infrastructure
 
-## Organization Principles
+**[LAB](https://github.com/BasicFist/LAB)** - Central infrastructure hub  
+Automation, workflows, MCP servers, monitoring, and shared configs for all projects.
 
-### Quality Standards
-- Evidence-based development and decision making
-- Comprehensive testing and validation
-- Professional documentation and communication
-- Security-first approach to all systems
+## AI/ML Systems
 
-### Development Philosophy
-- Build only what's needed (MVP-first mindset)
-- Complete implementations (no partial features or TODOs)
-- Follow existing patterns and conventions
-- Clean, maintainable, scalable code
+**[crushvllm](https://github.com/BasicFist/crushvllm)** - vLLM optimization and deployment  
+**[comfyui](https://github.com/BasicFist/comfyui)** - ComfyUI workflows and custom nodes  
+**[searxng-service](https://github.com/BasicFist/searxng-service)** - Privacy metasearch with LLM semantic reranking
 
-### Project Categories
+## Trading & Financial
 
-**Academic**: Research projects exploring new methodologies and validating hypotheses
+**[thunes](https://github.com/BasicFist/thunes)** - Trading platform integration  
+**[24jogjeans](https://github.com/BasicFist/24jogjeans)** - Trading analytics
 
-**Trading**: Analytics systems and platform integrations for financial markets
+## Research
 
-**Development**: Tools and utilities for mobile operations, AI deployment, and system optimization
+**[kanna](https://github.com/BasicFist/kanna)** - Academic research and investigation
 
-**Creative**: AI workflows, custom nodes, and visual computing applications
+## Developer Tools
 
-## Contributing
+**[dotfiles](https://github.com/BasicFist/dotfiles)** - Development environment configuration  
+**[phone-ops](https://github.com/BasicFist/phone-ops)** - Mobile device operations  
+**[project-templates](https://github.com/BasicFist/project-templates)** - Reusable scaffolding
 
-All repositories follow consistent standards:
-- Pre-commit hooks for quality enforcement
-- Automated CI/CD pipelines
-- Comprehensive test coverage
-- Clear documentation
+---
 
-## Resources
-
-- [Organization Templates](https://github.com/BasicFist/.github)
-- [Development Environment](https://github.com/BasicFist/dotfiles)
-- [Project Scaffolding](https://github.com/BasicFist/project-templates)
+Systematic innovation through code.
