@@ -9,7 +9,6 @@ Automation, workflows, MCP servers, monitoring, and shared configs for all proje
 
 ## AI/ML Systems
 
-**[crushvllm](https://github.com/BasicFist/crushvllm)** - vLLM optimization and deployment  
 **[comfyui](https://github.com/BasicFist/comfyui)** - ComfyUI workflows and custom nodes  
 **[searxng-service](https://github.com/BasicFist/searxng-service)** - Privacy metasearch with LLM semantic reranking
 
